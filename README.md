@@ -41,6 +41,7 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
+[![](https://visitcount.itsvg.in/api?id=petrinotino&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
