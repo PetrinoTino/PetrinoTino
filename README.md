@@ -1,7 +1,7 @@
   <h1><big>⭐</big>About Me 👨‍💻 </h1>
  <h2><big>🎓</big> Tech Enthusiast, Full Stack Developer.  </h2>
  <h2> <big>📚👀</big> I love reading books on personal development. </h2> 
-<h2>✈️ I also love traveling.</h2>
+<h2>✈️ I  love traveling.</h2>
 <h3>🌱 I'm currently learning JAVA at the SDA Albania BootCamp. 📚🚀</h3>
 
 <h1>🌐Socials</h1>
