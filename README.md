@@ -1,40 +1,39 @@
-  - 👋 Hi, I’m @Petrino Qasolli a Full Stack Developer 💻👨‍💻
-  - 🌐Languages & Technologies: 💞️ Frontend:               
-    HTML5
-    CSS3
-    JavaScript
-    Bootstrap
-    Tailwind
-    jQuery
-    React
-    Angular 💞️ Backend: 
-    Node.js
-    Express.js
-    PHP
-    Java (In progress: JAVA BootCamp SDA Albania)
-    Spring
+  - 👋 Hi, I’m @Petrino Qasolli a Full Stack Developer 💻👨‍💻- 🌐Languages & Technologies: 💞️ Frontend:               
+    HTML5,
+    CSS3,
+    JavaScript,
+    Bootstrap,
+    Tailwind,
+    jQuery,
+    React,
+    Angular. 💞️ Backend: 
+    Node.js,
+    Express.js,
+    PHP,
+    Java (In progress: JAVA BootCamp SDA Albania),
+    Spring.
 ⚡- Databases:
-    SQL
-    PostgreSQL
-    JDBC & Hibernate
+    SQL,
+    PostgreSQL,
+    JDBC & Hibernate.
  ⚡- Development Tools:
-    Git
-    GitHub
-    Adobe Photoshop
-    RegEx
-    X-Path
+    Git,
+    GitHub,
+    Adobe Photoshop,
+    RegEx,
+    X-Path.
     Other:
 ⚡- Web Design
-    API Integration
-    DApp Development
+    API Integration,
+    DApp Development.
 🌱 I’m currently learning -- 📚 JAVA BootCamp SDA Albania:
-    Java Fundamentals
-    Java Advanced
-    Software Testing
-    Databases-SQL
-    JDBC & Hibernate
-    Design Patterns
-    Spring Framework
+    Java Fundamentals,
+    Java Advanced,
+    Software Testing,
+    Databases-SQL,
+    JDBC & Hibernate,
+    Design Patterns,
+    Spring Framework.
 🚀 Adept in Diverse Technologies: I thrive on learning and mastering various technologies to build innovative solutions and enhance user experiences.
 💼 Work Experience:
 As a freelance web developer, I have worked on various projects, utilizing my diverse skill set to deliver high-quality solutions to clients. 
