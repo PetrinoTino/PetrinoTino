@@ -1,6 +1,5 @@
   - 👋 Hi, I’m @Petrino Qasolli a Full Stack Developer 💻👨‍💻
-  - 🌐Languages & Technologies:
-  - 💞️ Frontend:               
+  - 🌐Languages & Technologies: 💞️ Frontend:               
     HTML5
     CSS3
     JavaScript
@@ -8,8 +7,7 @@
     Tailwind
     jQuery
     React
-    Angular
-  - 💞️ Backend: 
+    Angular 💞️ Backend: 
     Node.js
     Express.js
     PHP
