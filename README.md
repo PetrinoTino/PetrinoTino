@@ -1,14 +1,14 @@
-  <h1><big>⭐</big>About Me 👨‍💻 </h1>
- <h2><big>🎓</big> Tech Enthusiast, Full Stack Developer.  </h2>
- <h2> <big>📚👀</big> I love reading books on personal development. </h2> 
+<h1><big>⭐</big>About Me 👨‍💻 </h1>
+<h2><big>🎓</big> Tech Enthusiast, Full Stack Developer.  </h2>
+<h2> <big>📚👀</big> I love reading books on personal development. </h2> 
 <h2>✈️ I  love traveling.</h2>
 <h2>🌱 I'm currently learning JAVA at the SDA Albania BootCamp. 📚🚀</h2>
 
 <h1>🌐Socials</h1>
 <a href="https://www.linkedin.com/in/petrino-qasolli-703806290/" rel="nofollow">
 <img src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-
 </a>
+
 <h1>💻Tech Stack</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
