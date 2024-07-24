@@ -1,11 +1,12 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400"> </a>
-<h1><big>⭐</big>About Me 👨‍💻 </h1>
+
+<h1><big>✨</big>About Me 👨‍💻 </h1>
 <h2><big>🎓</big> Tech Enthusiast, Full Stack Developer.  </h2>
 <h2> <big>📚👀</big> I love reading books on personal development. </h2> 
 <h2>✈️ I  love traveling.</h2>
 <h2>🌱 I'm currently learning JAVA at the SDA Albania BootCamp. 📚🚀</h2>
-<h2>💼 My Portfolio <a href="https://tino-tino.netlify.app/"> Petrino Qasolli</a> 📚</h2>
+<h2>💼🔍 My Portfolio <a href="https://tino-tino.netlify.app/"> Petrino Qasolli</a>  ✔️📚</h2>
 <h1>🌐Socials</h1>
 <a href="https://www.linkedin.com/in/petrino-qasolli-703806290/" rel="nofollow">
 
