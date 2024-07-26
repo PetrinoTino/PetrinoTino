@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400"> </a>
 
-<h1><big>✨</big>About Me 👨‍💻 </h1>
+<h1><strong><big>✨</big></strong>About Me 👨‍💻 </h1>
 <h2><big>🎓</big> Tech Enthusiast, Full Stack Developer.  </h2>
 <h2> <big>📚👀</big> I love reading books on personal development. </h2> 
 <h2>✈️ I  love traveling.</h2>
