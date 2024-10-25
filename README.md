@@ -5,7 +5,7 @@
 <h2><big>🎓</big> Tech Enthusiast, Full Stack Developer.  </h2>
 <h2> <big>📚👀</big> I love reading books on personal development. </h2> 
 <h2>✈️ I  love traveling.</h2>
-<h2>🌱 JAVA at the SDA Albania BootCamp. 📚🚀</h2>
+<h2>🌱 JAVA -- SDA Albania BootCamp. 📚🚀</h2>
 <h2>💼🔍 My Portfolio <a href="https://tino-tino.netlify.app/"> Petrino Qasolli </a>  ✔️</h2>
 <h1>🌐Socials.</h1>
 
