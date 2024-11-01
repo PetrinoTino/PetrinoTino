@@ -6,7 +6,7 @@
 <h2> <big>📚👀</big> I love reading books on personal development. </h2> 
 <h2>✈️ I  love traveling.</h2>
 <h2>🌱 JAVA -- SDA Albania BootCamp. 📚🚀</h2>
-<h2>💼🔍 My Portfolio <a href="https://tino-tino.netlify.app/"> Petrino Qasolli </a>  ✔️</h2>
+<h2>💼🔍 My Portfolio <a href="http://127.0.0.1:5501/index.html> Petrino Qasolli </a>  ✔️</h2>
 <h1>🌐Socials.</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrino-qasolli-703806290/)
