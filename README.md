@@ -55,7 +55,8 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/540b7ddca5ec8693e939aac37b3ef6cbf509820e7624de69e8e0c4a9b00c8831/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/540b7ddca5ec8693e939aac37b3ef6cbf509820e7624de69e8e0c4a9b00c8831/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" style="max-width: 100%;"></a></p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=petrinotino&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=petrinotino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
