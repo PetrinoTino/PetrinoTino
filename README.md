@@ -2,12 +2,12 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="400">
 
 <h1><strong><big>✨</big></strong> About Me 👨‍💻 </h1>
-<h2><big>🎓</big> Tech Enthusiast, Full Stack Developer.  </h2>
+<h2><big>🎓</big> Tech Enthusiast, Full Stack Developer  </h2>
 <h2> <big>📚👀</big> I love reading books on personal development. </h2> 
-<h2>✈️ I  love traveling.</h2>
-<h2>🌱 JAVA - SDA Albania BootCamp. 📚🚀</h2>
+<h2>✈️ I  love traveling </h2>
+<h2>🌱 JAVA - SDA Albania BootCamp 📚🚀</h2>
 <h2>💼🔍 My Portfolio <a href="https://petrino-qasolli.com/"> Petrino Qasolli </a>  ✔️</h2>
-<h1>🌐Socials.</h1>
+<h1>🌐Socials </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrino-qasolli-703806290/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/petrino_qasolli/)
