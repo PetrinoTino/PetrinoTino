@@ -7,7 +7,7 @@
 <h2>✈️ I  love traveling </h2>
 <h2>🌱 JAVA - SDA Albania BootCamp 📚🚀</h2>
 <h2>💼🔍 My Portfolio <a href="https://petrino-qasolli.com/"> Petrino Qasolli </a>  ✔️</h2>
-<h1>🌐Socials </h1>
+<h1>🌐 Socials </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrino-qasolli-703806290/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/petrino_qasolli/)
