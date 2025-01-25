@@ -2,7 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="400">
 
 <h1><strong><big>✨</big></strong> About Me 👨‍💻 </h1>
-<h2><big> 🎓 </big>Tech Enthusiast, Full Stack Developer </h2>
+<h2><big> 🎓 </big>Tech Enthusiast, Software Developer </h2>
 <h2> <big> 📚👀 </big> I love reading books on personal development </h2> 
 <h2>✈️ I  love traveling </h2>
 <h2>🌱 JAVA - SDA Albania BootCamp 📚🚀</h2>
