@@ -4,7 +4,7 @@
 
 <h1><strong><big> ✨ </big></strong>About Me 👨‍💻</h1>
 <h2><big> 🎓 </big>Tech Enthusiast, Software Developer </h2>
-<h2><big> 🎓 </big>⚛️React – 🟨JS(JavaScript)  | 🌱Spring Boot – ☕Java </h2>
+<h2><big>⚛️</big>React – 🟨JS(JavaScript)  | 🌱Spring Boot – ☕Java </h2>
 <h2> <big> 📚👀 </big> I love reading books on personal development </h2> 
 <h2> ✈️ I  love traveling </h2>
 <h2> 🌱 JAVA - SDA Albania BootCamp 📚🚀</h2>
