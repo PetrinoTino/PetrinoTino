@@ -1,4 +1,3 @@
-
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400"> </a>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="400">
 
@@ -57,7 +56,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=petrinotino&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=petrinotino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
